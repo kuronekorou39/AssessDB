@@ -1,0 +1,23 @@
+{
+  "name": "20250415_shindandb_electron",
+  "version": "1.0.0",
+  "description": "��#\u0000 \u0000M\u0000y\u0000P\u0000r\u0000o\u0000j\u0000e\u0000c\u0000t\u0000\r\u0000 \u0000",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kuronekorou39/AssessDB.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/kuronekorou39/AssessDB/issues"
+  },
+  "homepage": "https://github.com/kuronekorou39/AssessDB#readme",
+  "devDependencies": {
+    "electron": "^35.1.5"
+  }
+}
